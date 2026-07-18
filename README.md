@@ -227,9 +227,4 @@ The results demonstrate how a classification algorithm can be used to identify p
 
 Possible future improvements include creating new features such as family size, extracting passenger titles from names, testing additional classification algorithms, and applying more advanced feature engineering.
 
-## Team Members
 
-* Team Member 1
-* Team Member 2
-* Team Member 3
-* Team Member 4
